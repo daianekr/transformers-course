@@ -1,3 +1,9 @@
 transformers[sentencepiece]
 tensorflow
 torch
+datasets
+scikit-learn
+matplotlib
+spacy
+emoji
+tqdm
