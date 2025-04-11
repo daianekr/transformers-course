@@ -7,3 +7,5 @@ matplotlib
 spacy
 emoji
 tqdm
+sentence-transformers
+tf-keras
